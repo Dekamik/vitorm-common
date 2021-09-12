@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vitorm.Common.Core", "Vitorm.Common.Core\Vitorm.Common.Core.csproj", "{B6F61429-C29E-4EEA-88F9-0F6E46F2CC81}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vitorm.Common.Munin", "Vitorm.Common.Munin\Vitorm.Common.Munin.csproj", "{B6F61429-C29E-4EEA-88F9-0F6E46F2CC81}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
